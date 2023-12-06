@@ -1,0 +1,1 @@
+{"name":"Local: des","url":"d:\\Academics\\Fourth Year\\CNS Lab\\DES\\des.cpp","tests":[{"id":1662973290653,"input":"133457799BBCDFF1\n01A2B3C4D5E607F8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Academics\\Fourth Year\\CNS Lab\\DES\\des.cpp","group":"local","local":true}
